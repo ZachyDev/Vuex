@@ -17,12 +17,7 @@ export default {
   },
   data() {
     return {
-      products: [
-        { name: 'Laptop',price: 20000 },
-        { name: 'Mifi',price: 5000 },
-        { name: 'Router',price: 10000 },
-        { name: 'Zuku',price: 4000 },
-      ],
+     
     }
   }
 }
